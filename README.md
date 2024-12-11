@@ -9,4 +9,4 @@ The libraries we will be required are :
 Pandas – This library helps to load the data frame in a 2D array format.
 Numpy – Numpy arrays are very fast and can perform large computations.
 Matplotlib / Seaborn – This library is used to draw visualizations.
-Sklearn – This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation.
+Sklearn – This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation
